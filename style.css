@@ -28,16 +28,24 @@ body{
 }
 
 .accent{
-    color: black;
+    color: rgb(242, 130, 180);
 }
 
 .grid{
-    display: grid;
+    display: flex;
     gap: 15px;
+    justify-content: center;
+    flex-wrap: wrap;
 }
 
 .grid div{
     padding: 20px;
     border-radius: 20px;
-    background-color: aliceblue;
+    background-color:rgb(255, 255, 255);
+    width: 90px;
+}
+
+
+@media (max-width: 768px){
+    body{background-color: rgb(200, 243, 243);}
 }
