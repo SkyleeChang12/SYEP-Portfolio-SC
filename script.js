@@ -1,25 +1,17 @@
 const reviews = [
     {
         id: 1,
-        name: 'Susan Smith',
+        name: 'Estella Sanchez',
         img:'#',
-        text:'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+        text: 'I am glad to have been able to work with skylee inside of this program. She is excellent when it comes down to computer and adaptability skills. When I need help, I know that I can rely on her to try to assist me even with the most complicated tasks. They are truly a valuable friend and worker to me.',
     },
 
 
         {
         id: 2,
-        name: 'Anna Smith',
+        name: 'Catalina Viera',
         img:'#',
-        text:'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
-    },
-
-
-    {
-        id: 3,
-        name: 'Peter Smith',
-        img:'#',
-        text:'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+        text:'Ive known skylee for a long time and she has always been a creative person. She encoruaged me to try out art and now it is something that I live for everyday. Thanks to sky, I finally found something that I am truly pasisonate. I hope that in the future she can continue to help me grow and eventually I can turn art into my career. ',
     },
 ];
 
